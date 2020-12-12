@@ -34,7 +34,7 @@ Highlights:
 
 _Note: Project was issued via a Question- and- Answer format where there was a specific sequence for me to follow_
  
-### Project 2: Price Prediction
+## Project 2: Price Prediction
 
 Given the popular Ames Housing dataset, I predicted house prices, with the added challenge of using only classical linear regression models and utilizing only 30 features.
 
@@ -43,7 +43,7 @@ Highlights:
 * Feature Elimination with Lasso and Ridge Models
 * Hyperparameter tuning with GridSearchCV
 
-### Project 3: NLP Classification of Mental Illnesses
+## Project 3: NLP Classification of Mental Illnesses
 
 Took a challenge to build a model to classify two mental illnesses well-known for being consequential to each other: Suicide and Depression.
 
@@ -56,9 +56,9 @@ Highlights:
 * Tested on various models such as Multi Naive Bayes, Log Regression and Extra Trees
 * Built a model that was 68% accurate in F1 score
 
-### _Project 4: Machine Learning on Virus Outbreak Prediction_
+## _Project 4: Machine Learning on Virus Outbreak Prediction_
 _Still ongoing, check back in Feb 2021!_
 
 
-### _Capstone: Entertainment Recommendation based on Face Emotion Detection_
+## _Capstone: Entertainment Recommendation based on Face Emotion Detection_
 _Still ongoing, check back in Feb 2021!_
