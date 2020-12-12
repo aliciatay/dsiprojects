@@ -1,4 +1,3 @@
-![General Assembly Logo](https://imgur.com/a/eA9KEIX.png)
 
 # General Assembly's Data Science Projects
 
