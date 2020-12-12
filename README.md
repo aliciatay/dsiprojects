@@ -4,7 +4,7 @@
 
 Welcome to my portfolio of GA projects! <br>
 This consists of:
-1. [Project 1](#Project-1:-EDA-on-America's-Examinations-(ACT-&-SAT)<br>: EDA to uncover insights to increase uptake rates
+1. Project 1: EDA to uncover insights to increase uptake rates
 2. Project 2: Price Prediction
 3. Project 3: NLP Classification on Mental Illnesses 
 4. Project 4: Neural Networks on Virus Outbreak Prediction _(ongoing)_ 
@@ -24,7 +24,7 @@ Connect with me if you'd like to hear more: www.linkedin.com/in/aliciataylixian/
 
 ## Project 1:  EDA on America's Examinations (ACT & SAT)
 
-Researched on a foreign subject (America's Examination system for two examinations - ACT and SAT) to justified recommendations on increasing student uptake year-on-year.
+Researched on a foreign subject (America's Examination system for two examinations - ACT and SAT) to make justified recommendations on increasing student uptake year-on-year.
 
 Highlights:
 * Did data wrangling and cleaning
