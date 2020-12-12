@@ -4,7 +4,7 @@
 
 Welcome to my portfolio of GA projects! <br>
 This consists of:
-1. Project 1: EDA to uncover insights to increase uptake rates
+1. Project 1: EDA to uncover insights to increase success rates
 2. Project 2: Price Prediction
 3. Project 3: NLP Classification on Mental Illnesses 
 4. Project 4: Neural Networks on Virus Outbreak Prediction _(ongoing)_ 
