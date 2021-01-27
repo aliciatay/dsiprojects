@@ -8,8 +8,8 @@ This consists of:
 1. Project 1: EDA to uncover insights to increase uptake rates
 2. Project 2: Price Prediction
 3. Project 3: NLP Classification on Mental Illnesses 
-4. Project 4: Neural Networks on Virus Outbreak Prediction _(ongoing)_ 
-5. Capstone Project: Entertainment Recommendator System based on Facial Emotion Detection _(ongoing)_
+4. Project 4: Neural Networks on Virus Outbreak Prediction 
+5. Capstone Project: Entertainment Recommendator System based on Facial Emotion Detection 
 6. _(For Fun):_ Multi-Modal Movie Rating Prediction _(ongoing)_
  
 
@@ -59,8 +59,5 @@ Highlights:
 * Built a model that was 68% accurate in F1 score
 
 ### _Project 4: Machine Learning on Virus Outbreak Prediction_
-_Still ongoing, check back in Feb 2021!_
-
 
 ### _Capstone: Entertainment Recommendation based on Face Emotion Detection_
-_Still ongoing, check back in Feb 2021!_
