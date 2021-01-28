@@ -1,4 +1,3 @@
-![General Assembly Logo](https://imgur.com/a/eA9KEIX.png)
 
 # General Assembly's Data Science Projects
 
@@ -35,7 +34,7 @@ Highlights:
 
 _Note: Project was issued via a Question- and- Answer format where there was a specific sequence for me to follow_
  
-### Project 2: Price Prediction
+## Project 2: Price Prediction
 
 Given the popular Ames Housing dataset, I had to predict house prices, with the extra challenge of using only classical linear regression models and utilizing only 30 features.
 
@@ -45,7 +44,7 @@ Highlights:
 * Hyperparameter tuning with GridSearchCV
 
 
-### Project 3: NLP Classification of Mental Illnesses
+## Project 3: NLP Classification of Mental Illnesses
 
 Took a challenge to build a model to classify two mental illnesses well-known for being consequential to each other: Suicide and Depression.
 
@@ -58,6 +57,26 @@ Highlights:
 * Tested on various models such as Multi Naive Bayes, Log Regression and Extra Trees
 * Built a model that was 68% accurate in F1 score
 
-### _Project 4: Machine Learning on Virus Outbreak Prediction_
+## Project 4: Machine Learning on Virus Outbreak Prediction
 
-### _Capstone: Entertainment Recommendation based on Face Emotion Detection_
+This was part of a group project, where we worked on a past Kaggle competition for West Nile Virus Prediction.
+
+Highlights:
+* Achieved an accuracy score of 77% after model fine-tunning from a group of different architectures (SGD Classifiers/ Log Regression/ Random Forest)
+* Did a cost-benefit analysis with case studies from Sacramento and Singapore, to present a business strategy that is backed by model's predictive techniques
+
+## Capstone: Entertainment Recommendation based on Face Emotion Detection: _EmoFLIX_
+
+Leveraging on how decision making are motivated by emotions, I wanted to build a model that could automate browsing on entertainment platforms based on emotion/feelings. 
+
+My project use-value is two-fold:
+1. Help entertainment platforms such as Netflix, push out relevant titles to the user according to consumers' emotions. 
+This will help in
+    - Ensuring that consumer stays in own platform and does not bounce out to competitors' entertainment platforms (is HBO/Disney+)
+    - Increase viewing rates due to the relevancy of recommended titles
+2. Help user reduce browing time by automating the process, and also fine-tuning recommendation by customizing titles to their feelings
+
+Highlights:
+* Trained on 4 model architectures
+* Fine-tuned with Optuna (hyper-param package library) and Mixup to push baseline up to 66%, outperforming human accuracy level
+* Due to noisy labels, shallower models tend to provide higiher accuracy than compared to deeper, more modern state-of-art architecture
