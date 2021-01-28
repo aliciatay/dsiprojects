@@ -12,12 +12,9 @@ This consists of:
 6. _(For Fun):_ Multi-Modal Movie Rating Prediction _(ongoing)_
  
 
-### About my repo and I 
+### _About my repo and I_ 
 
->"...whoever controls data controls the world..."
-
-Besides the desire for world domination, I was an integrated marketer who wanted to dig out much more knowledge that was hiding within the mounds of data. So I got my hands dirty and learn the dark arts of Data Science.
-
+I was an integrated marketer whose lack of knowledge in analytics motivated me to learn more. 
 This repo stores my first steps into the deep rabbit hole of Machine Learning, where I aim to complete all 5 core projects organized by General Assembly Singapore.
 
 Connect with me if you'd like to hear more: www.linkedin.com/in/aliciataylixian/
@@ -79,4 +76,4 @@ This will help in
 Highlights:
 * Trained on 4 model architectures
 * Fine-tuned with Optuna (hyper-param package library) and Mixup to push baseline up to 66%, outperforming human accuracy level
-* Due to noisy labels, shallower models tend to provide higiher accuracy than compared to deeper, more modern state-of-art architecture
+* Due to noisy labels, shallower models tend to provide higher accuracy than compared to deeper, more modern state-of-art architecture
